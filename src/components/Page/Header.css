@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Nabla&family=Rubik+Iso&display=swap');
+h1 {
+    text-align: center;
+    font-family: 'Rubik Iso', cursive;
+    font-size: 50px;
+    color:  white;
+    background-color: black;
+}
