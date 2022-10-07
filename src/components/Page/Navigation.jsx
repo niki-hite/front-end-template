@@ -11,6 +11,7 @@ export default function Navigation() {
       <NavLink to="Easter">Easter Page</NavLink>
       <NavLink to="form">Form</NavLink>
       <NavLink to="search">Search</NavLink>
+      <NavLink to="lists">Lists</NavLink>
     </nav>
   );
 }
