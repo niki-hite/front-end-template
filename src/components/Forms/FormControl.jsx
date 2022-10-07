@@ -38,7 +38,7 @@ export function TextAreaControl({ label, ...rest }) {
   );
 }
 
-export function CheckBox({ legend, label, ...rest }) {
+export function CheckBoxControl({ legend, label, ...rest }) {
   return (
     <fieldset className={style.CheckBoxControl}>
       <legend className={style.LabelText}>{legend}</legend>
